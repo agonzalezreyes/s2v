@@ -1,0 +1,5 @@
+typer
+pathlib
+wasabi
+sense2vec
+spacy
