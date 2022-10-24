@@ -11,7 +11,7 @@
         $ conda create -n [NAME] python=3.9.7 pip
         $ conda activate [NAME]
 
-    [NAME] = Name for your environment, e.g. `conda create -n env python=3.9.7 pip` and `conda activate env`
+    `[NAME]` = Name for your environment, e.g. `conda create -n env python=3.9.7 pip` and `conda activate env`
 
 2. Run the setup bash script to install all dependencies and submodules:
 
@@ -21,7 +21,7 @@
 
         (env) $ sh build_vectors.sh [MODEL-NAME]
 
-    [MODEL-NAME] = The name you want to give to the output vector files, e.g. `sh build_vectors.sh aristotle`.
+    `[MODEL-NAME]` = The name you want to give to the output vector files, e.g. `sh build_vectors.sh aristotle`.
 
 ### References:
 
